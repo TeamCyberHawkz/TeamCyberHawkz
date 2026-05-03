@@ -31,15 +31,16 @@ Skip the noise. Get the intel.
 *Core architecture and technologies powering our operations:*
 
 <p align="left">
-  <img src="[https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)" alt="Python" />
-  <img src="[https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white)" alt="Go" />
-  <img src="[https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)" alt="Bash" />
-  <img src="[https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)" alt="Linux" />
-  <img src="[https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white)" alt="Django" />
-  <img src="[https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)" alt="PostgreSQL" />
-  <img src="[https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)" alt="Tailwind" />
-  <img src="[https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)" alt="Docker" />
-  <img src="[https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)" alt="Git" />
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+
 </p>
 
 ### 🎯 `cat /var/operations.log`
