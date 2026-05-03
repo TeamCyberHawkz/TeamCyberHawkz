@@ -31,16 +31,16 @@ Skip the noise. Get the intel.
 *Core architecture and technologies powering our operations:*
 
 <p align="left">
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
-![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 
+![Python](https://img.shields.io/badge/-Python-181818?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-181818?style=for-the-badge&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-181818?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-181818?style=for-the-badge&logo=linux&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-181818?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-181818?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-181818?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-181818?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-181818?style=for-the-badge&logo=git&logoColor=white)
 </p>
 
 ### 🎯 `cat /var/operations.log`
